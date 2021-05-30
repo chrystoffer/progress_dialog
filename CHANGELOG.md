@@ -1,3 +1,6 @@
+## [2.0.0]
+* Updates the lib for null safety (Chrystoffer Kugler Horochovec)
+
 ## 1.2.4
 * Fixed issue RenderBox overflow
 * Added rtl and ltr support
